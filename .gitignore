@@ -6,6 +6,7 @@
 isaacgym/
 isaacgym/build/
 isaacgym/build/lib/isaacgym/
+wandb/
 
 /amp/logs/
 /amp/resources/datasets/*motion_library/

@@ -175,7 +175,7 @@ class AMPTrainCfg(BaseTrainCfg):
         # logging
         run_name = 'test'
         experiment_name = 'amp'
-        entity = "fatemehzargar"
+        entity = "bdaii"
 
         # load and resume
         load_run = -1  # -1 = last run
